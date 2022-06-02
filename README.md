@@ -8,10 +8,10 @@
 </p>
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=MelihSelamiUrkmezz&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MelihSelamiUrkmezz" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=MelihSelamiUrkmezz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MelihSelamiUrkmezz&theme=tokyonight ">
+
+ 
   <p>
     <img src="https://views.whatilearened.today/views/github/MelihSelamiUrkmezz/views.svg"/>
     <a href="https://github.com/MelihSelamiUrkmezz?tab=followers"><img src="https://img.shields.io/github/followers/MelihSelamiUrkmezz?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
