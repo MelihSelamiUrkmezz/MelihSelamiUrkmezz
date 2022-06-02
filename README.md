@@ -23,8 +23,9 @@
 
 - 🔭 I’m currently working on DevOps.
 - 🌱 I’m currently learning Cloud and Devops practices.
--  ♥  I am a member of the Flowing Big Data Analytics Group.
--  ♥  I love Cyber Security and Linux.
+-  ♥ I am a member of the Flowing Big Data Analytics Group.
+-  ♥ I love Cyber Security and Linux.
 - ⚡ Languages: C,Python,Java
 - 📫 How to reach me: melih.s.urkmez@gmail.com
 - 🔭 If you see my website: https://melihselamiurkmezz.github.io/
+- ⚡ I like to do small projects with my Tiva card :)
