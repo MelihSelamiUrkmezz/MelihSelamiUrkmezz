@@ -21,7 +21,7 @@
 </p>
 <br/><br/>
 
-- 🔭 I’m currently working on DevOps.
+- 🔭 I’m currently working on System and Platform Management.
 - 🌱 I’m currently learning Cloud and Devops practices.
 -  ♥ I am a member of the Flowing Big Data Analytics Group.
 -  ♥ I love Cyber Security and Kali Linux.
