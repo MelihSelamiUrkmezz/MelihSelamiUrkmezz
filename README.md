@@ -1,6 +1,6 @@
 # <center>First Of All Hello Everyone!</center>
 
-![myfile](https://github.com/MelihSelamiUrkmezz/MelihSelamiUrkmezz/blob/main/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966.gif)
+![myfile](https://github.com/MelihSelamiUrkmezz/MelihSelamiUrkmezz/blob/main/Ry6p.gif)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
