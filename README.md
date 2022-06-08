@@ -23,7 +23,8 @@
 <br/><br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=25&duration=2500&color=0D2424&lines=Hello+everyone.+My+name's+Melih+Selami+Urkmez.+I+study+at+Kocaeli+University+in+Computer+Engineering+Department.+I'm+studying+in+2nd+grade.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=25&duration=2500&color=9BA9C3&lines=Hello+everyone.;+My+name's+Melih+Selami+Urkmez.;I+study+at+Kocaeli+University.;In+Computer+Engineering+Department.+)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on System and Platform Management.
