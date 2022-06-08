@@ -22,7 +22,13 @@
 </p>
 <br/><br/>
 
-<p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Melih Selami+Ürkmez;I+am+a+2nd+year+student+of;Computer+Engineering;At+Kocaeli+University."></a> </p>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Taha+Pek;I+am+a+2nd+year+student+of;Computer+Engineering;At+Kocaeli+University.+👋;"></a>
+</p>
+
+
 
 - 🔭 I’m currently working on System and Platform Management.
 - 🌱 I’m currently learning Cloud and Devops practices.
