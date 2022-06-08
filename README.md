@@ -23,11 +23,7 @@
 <br/><br/>
 
 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Melih Selami+Urkmez;I+am+a+2nd+year+student+of;Computer+Engineering;At+Kocaeli+University.+;"></a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=25&duration=2500&color=0D2424&lines=Hello+everyone.+My+name's+Melih+Selami+Urkmez.+I+study+at+Kocaeli+University+in+Computer+Engineering+Department.+I'm+studying+in+2nd+grade.)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on System and Platform Management.
