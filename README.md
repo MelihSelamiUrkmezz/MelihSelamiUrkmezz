@@ -6,9 +6,8 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=MelihSelamiUrkmezz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MelihSelamiUrkmezz&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&hide_border=true" align="center" /></div>  
-
+</p>
  
   <p>
     <img src="https://views.whatilearened.today/views/github/MelihSelamiUrkmezz/views.svg"/>
