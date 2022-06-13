@@ -1,4 +1,3 @@
-<h3> align="center"> ![](https://github.com/MelihSelamiUrkmezz/MelihSelamiUrkmezz/blob/main/result.gif) </h3>
 <img src="https://github.com/MelihSelamiUrkmezz/MelihSelamiUrkmezz/blob/main/result.gif" width="100%"/>
 <h3 align="center">Connect with me</h3>
 <p align="center">
