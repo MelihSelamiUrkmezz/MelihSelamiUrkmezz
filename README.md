@@ -1,4 +1,4 @@
-![myfile](https://github.com/MelihSelamiUrkmezz/MelihSelamiUrkmezz/blob/main/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&size=25&duration=2500&color=9BA9C3&lines=Hello+everyone.;+My+name's+Melih+Selami+Urkmez.;I+study+at+Kocaeli+University.;In+Computer+Engineering+Department.+)](https://git.io/typing-svg)
 <h3 align="center">Connect with me</h3>
 <p align="center">
