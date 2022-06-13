@@ -29,7 +29,7 @@
 - 🔭 If you see my website: https://melihselamiurkmezz.github.io/
 - ⚡ I like to do small projects with my Tiva card :)
 
-<table><tr><td valign="top" width="33%">
+
 ### Skills
   
 <div align="center">  
@@ -46,5 +46,3 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
