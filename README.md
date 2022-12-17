@@ -22,7 +22,6 @@
 - 🔭 I’m currently working on System and Platform Management at Dogus Technology.
 - 🌱 I’m currently learning Cloud and Devops practices.
 -  ♥ I am a member of the Flowing Big Data Analytics Group.
--  ♥ I love Cyber Security and Kali Linux.
 - ⚡ Languages: C,Python,Java
 - 📫 How to reach me: melih.s.urkmez@gmail.com
 - 🔭 If you see my website: https://melihselamiurkmezz.github.io/
