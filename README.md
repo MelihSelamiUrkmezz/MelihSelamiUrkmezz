@@ -13,7 +13,7 @@
     <a href="https://github.com/MelihSelamiUrkmezz?tab=followers"><img src="https://img.shields.io/github/followers/MelihSelamiUrkmezz?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/MelihSelamiUrkmezz?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Os-Debian-a80030"/></a>
-    <a href="https://twitter.com/msuwashere"><img src="https://img.shields.io/twitter/follow/msuwashere?style=social"/></a>
+    
   </p>
 </p>
 <br/><br/>
